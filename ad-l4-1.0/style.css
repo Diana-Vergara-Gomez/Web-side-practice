@@ -1,0 +1,36 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+
+body{
+    margin:0;
+    padding:30px;
+}
+
+.conteiner{
+    max-width:900px;
+    margin:auto;
+}
+
+p{
+    text-align:justify;
+    margin-bottom:35px;
+}
+
+div{
+  max-width:500px;
+    margin:auto;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+}
+
+nav{
+    display: flex;
+    gap: 40px;
+}
